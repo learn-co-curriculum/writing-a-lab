@@ -88,4 +88,4 @@ We always want to make sure our students are having fun, and a lot of that can b
 + The lab topic or intro can be humorous
 + A good gif
 
-<a href='https://learn.co/lessons/writing-a-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/writing-a-lab' title='You've written a phenomenal lesson, and now it's time to test your students to see how much they learned. A lab is a time for students to put the skills they've learned to the test.'>You've written a phenomenal lesson, and now it's time to test your students to see how much they learned. A lab is a time for students to put the skills they've learned to the test.</a> on Learn.co and start learning to code for free.</p>
