@@ -70,9 +70,9 @@ A stretch lab is a lab that requires students to put some of the pieces together
 
 + Provide less instructions
 + Tests only cover the big picture and not each individual line of code they have to write
-+ Provide less starter code.
++ Provide less starter code
 + Require a student to Google some information to complete the lab
-+ Incorporate passed a student has learned to pass all the tests
++ Incorporate past concepts a student has learned to pass all the tests
 
 
 ## How to Approach Building A Lab
@@ -89,3 +89,5 @@ We always want to make sure our students are having fun, and a lot of that can b
 + A good gif
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/writing-a-lab' title='You've written a phenomenal lesson, and now it's time to test your students to see how much they learned. A lab is a time for students to put the skills they've learned to the test.'>You've written a phenomenal lesson, and now it's time to test your students to see how much they learned. A lab is a time for students to put the skills they've learned to the test.</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/writing-a-lab'>Writing a Lab</a> on Learn.co and start learning to code for free.</p>
