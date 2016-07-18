@@ -31,7 +31,7 @@ For Rails and more complex topics, our labs should be granular, with each iterat
 6. Rails Blog Omniauth
 7. Rails Blog Asset Pipeline
 
-At the same time however, you should never have students rely on code from a previous code. All the starter code needed to complete the lab should be in that lab.
+At the same time however, you should never have students rely on code from a previous lab. All the starter code needed to complete the lab should be in that lab.
 
 ## Readme
 
