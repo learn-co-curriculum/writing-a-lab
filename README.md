@@ -2,9 +2,10 @@ You've written a phenomenal lesson, and now it's time to test your students to s
 
 ## Purpose of A Lab
 
-The purpose of a lab is for students to practice what is taught in a lecture or through a reading. Students become developers when they are working on labs.
+The purpose of a lab is for students to practice what is taught in a lecture or through a reading. We teach students to be productive and to do that, we want them to start applying their knowledge right away. Students become developers when they are working on labs.
 
-Because of this, we want our labs to be challenging but applicable. Students should feel pushed intellectually with each lab, but not overwhelmed.
+Because of this, we want our labs to be challenging and students should feel pushed intellectually with each lab. Labs also give exposure to Test Driven Development and are a means for students to push their own learning forward by struggling through difficult content. Moreover, completing labs and seeing complete projects, even small ones builds confidence
+
 
 For this reason, our overall curriculum should include labs of varying degrees of difficulty. For important units or even important lessons, we should make sure that there are both regular and advanced labs. 
 
@@ -39,7 +40,7 @@ Your lab's Readme is the first point of reference about your lab to a student.
 
 Your Readme sets the student up for what scanario or context in which they're building. It's important to connect the lab with real world context or actual situations. Context provides a reason for a student to struggle. Once they know the purpose of the skill they're learning, they can become motivated by the things they can build with that skill.
 
-If you're teaching methods, you might want a scenario in which you'd want the same action to take place over and over again. What about Facebook sending happy birthday emails to every user on their birthday? That's what you should start your lab with. 
+If you're teaching methods, you might want a scenario in which you'd want the same action to take place over and over again. What about Facebook sending happy birthday emails to every user on their birthday? That's a good example domain model within which to frame your lab. 
 
 If you're teaching arrays, you might want a scenario where you'd want to store a group of objects and do the same action to each item in that group. What real-world situation could that be? 
 
@@ -51,11 +52,15 @@ That being said, think of your instructions more as requirements. Don't give the
 
 Instructions should be written in order of how to solve the problem. Really big labs or labs that cover complex topics can feel really overwhelming. Students learn the patterns of how to approach larger projects by reading instructions/requirements in the order in which they should be tackled. 
 
+The first few tasks should be easy, and subsequent tasks should increase in complexity.
+
+When creating a lab, think about how a video game introduces complexity. A good video game will make you complete a level where all you need to do is jump across a gap before you're introduced to a level where jumping across a gap is required to achieve some other goal.
+
 ## Tests 
 
 All labs are test driven. For Ruby and Rails labs, we use Rspec with Cabypara for testing views. 
 
-For Javascript/ Angular/ Node labs, we typically use Jasmine but can also use Karma and Mocha. 
+For Javascript/ Angular/ Node labs, we typically use Mocha. Test everything you want to make sure was completed
 
 
 ## Solution Branch
@@ -77,7 +82,7 @@ A stretch lab is a lab that requires students to put some of the pieces together
 
 ## How to Approach Building A Lab
 
-Sometimes it can feel daunting to approach building a lab. There are many ways to do it, none more correct that the other.
+Sometimes it can feel daunting to approach building a lab. There are many ways to do it, none more correct than the other.
 
 If you need a little help getting started, we recommend you start at the end and work your way backwards. Start by building the solution you want your students to create in the lab, then build the tests that test the skills you want the lab to practice. From there, write your Readme with clearly stated objectives, scenarios, and instructions.
 
